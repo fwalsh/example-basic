@@ -2,8 +2,10 @@
 This is the personal file of the student
 
 ## Hometown
-San Francisco, CA
+Sunny San Francisco, CA
 
 ## Favorite Winter Activity
 - Skiing
+- Running
+- Yoga
 - Cabin Life:tm:
